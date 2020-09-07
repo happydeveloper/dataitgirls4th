@@ -1,26 +1,26 @@
-  body{
-            background-color: cyan; 
-            font-family: 'Noto Sans KR', sans-serif;          
-        }
+body{
+    background-color: cyan; 
+    font-family: 'Noto Sans KR', sans-serif;          
+}
 
-        h1 {
-                border-bottom: 5px solid green;
-                padding: 20px;
-        }
+h1 {
+        border-bottom: 5px solid green;
+        padding: 20px;
+}
 
-        h1 a {
-            text-decoration: none;
-        }
+h1 a {
+    text-decoration: none;
+}
 
-        ol {
-            border-right: 10px solid red;
-        }
+ol {
+    border-right: 10px solid red;
+}
 
-        #container {
-            display: grid;
-            grid-template-columns: 300px 1fr;
-        }
+#container {
+    display: grid;
+    grid-template-columns: 300px 1fr;
+}
 
-        h1 {
-            margin-bottom: 0px;
-        }
+h1 {
+    margin-bottom: 0px;
+}
